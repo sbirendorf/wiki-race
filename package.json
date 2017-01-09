@@ -1,0 +1,12 @@
+{
+  "name"         : "wikirace",
+  "version"      : "0.1",
+  "description"  : "wikirace project for human-api.",
+  "main"         : "server.js",
+  "author"       : "Shachar Birendorf",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
